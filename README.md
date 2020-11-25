@@ -13,7 +13,6 @@
 <img alt="Ifood" src="./github/mobile.gif" align="center"/>
 
 <br/>
-<br/>
 
 <h2>💡 Deseja contribuir com esse projeto?</h2>
 
