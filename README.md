@@ -1,144 +1,144 @@
 <h1 align="center">🚀 Ifood Clone 🚀</h1>
 
 <h2 align=center>
-  ⭐ Prévia do projeto
+  ⭐ Project preview
 </h2>
 
 <img alt="Ifood" src="./github/mobile.gif" align="center"/>
 
 <br/>
 
-<h2>💡 Deseja contribuir com esse projeto?</h2>
+<h2>💡 Do you want to contribute to this project?</h2>
 
-### Faça um fork utilizando a linha de comando oficial do GitHub
+### Do you want to contribute to this project?
 
 ```bash
 $ gh repo fork DeboraZandonai/Ifood
 ```
 
-### Clone o seu fork e navegue atá a pasta do projeto
+### Clone your fork and navigate to the project folder
 
 ```bash
 $ git clone url-do-seu-fork && cd Ifood
 ```
 
-### Crie uma branch com as suas features
+### Create a branch with your features
 
 ```bash
-$ git checkout -b minha-feature
+$ git checkout -b my-feature
 ```
 
-### Faça um commit das suas alterações
+### Commit your changes
 
 ```bash
 $ git commit -m 'feat: suas alterações'
 ```
 
-### Envie o código para a sua branch remota
+### Send the code to your remote branch
 
 ```bash
-$ git push origin minha-feature
+$ git push origin my-feature
 ```
 
-Depois que a sua pull request for aceita você pode deletar a sua branch.
+After your pull request is accepted you can delete your branch.
 
 <h2>
-  💻 Como rodar o projeto?
+  💻 How to run the project?
 </h2>
 
-### Clone o repositório para ter uma cópia do código em sua máquina
+### Clone the repository to have a copy of the code on your machine
 
 ```bash
 $ git clone https://github.com/DeboraZandonai/Ifood.git
 ```
 
-### Navegue até a pasta do projeto
+### Navigate to the project folder
 
 ```bash
 $ cd Ifood
 ```
 
-### Carregue as dependências
+### Load dependencies
 
 ```bash
 $ yarn
 ```
 
-#### ou
+#### or
 
 ```bash
 $ npm install
 ```
 
-### Executando o Json-server
+### Running the Json-server
 
-O json server, dará acesso as imagens.
+The json server will give access to the images.
 
-**Para instalar**
+**To install**
 
 ```bash
 $ yarn add json-server
 ```
 
-**ou**
+**or**
 
 ```bash
 $ npm install json-server
 ```
 
-**Para Executá-lo**
+**To run it**
 
 ```bash
 $ npx json-server --H 192.168.2.156 -p 3333 server.json
 ```
 
-Observe que o ip local 192.168.2.156 é o meu, você deve substituir pelo seu, para saber qual seu ip, basta ir no seu cmd e executar o seguinte comando:
+Note that the local ip 192.168.2.156 is mine, you must replace it with yours, to find out what your ip is, just go to your cmd and run the following command:
 
 ```bash
 $ ipconfig
 ```
 
-OBS: Escolha a opção: Endereço IPv4.
+NOTE: Choose the option: IPv4 address.
 <br/>
 
-## Altere o endereço de ip na api
+## Change the ip address in the api
 
 <br/>
 
 ![Badge](/github/api.png)
 
-## Rode o projeto
+## Run the project
 
 ```bash
 $ expo start
 ```
 
-Depois de fazer isso, será aberto o metro bundler no seu navegador. Algumas opções para rodar o Aplicativo:
+After doing this, the metro bundler will open in your browser. Some options for running the Application:
 
-#### 1 - Emulador Android
+#### 1 - Android emulator
 
-Na página do metro bundler, clique em "Run on Android device/emulator" e espere carregar. Tenha em mente que é necessário ter passado pelo processo de instalação do android sdk, etc.
+On the metro bundler page, click on "Run on Android device / emulator" and wait to load. Keep in mind that it is necessary to have gone through the process of installing the android sdk, etc.
 
-#### 2 - Emulador IOS
+#### 2 - IOS Emulator
 
-Na página do metro bundler, clique em "Run on iOS simulator" e espere carregar.
+On the metro bundler page, click on "Run on iOS simulator" and wait to load.
 
-#### 3 - Seu smartphone
+#### 3 - Your smartphone
 
-Baixe o aplicativo do Expo:
+Download the Expo app:
 
 - [iOS](https://itunes.apple.com/app/apple-store/id982107779)
 - [Android](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www)
 
-Depois de baixar, volte a página do metro bundler e escaneie o QR Code com o app do Expo.
+After downloading, go back to the metro bundler page and scan the QR Code with the Expo app.
 
 ![Badge](/github/expo.png)
 
-<em>Para mais detalhes de como rodar o app em um emulador ou em seu dispositivo físico, clique <a href="https://react-native.rocketseat.dev/">aqui</a>.</em>
+<em>For more details on how to run the app on an emulator or on your physical device, click <a href="https://react-native.rocketseat.dev/">on here</a>.</em>
 <br />
 
-## 📝 Licença
+## 📝 License
 
-Este projeto encontra-se sob a licença **MIT**. Para mais informações, acesse o arquivo **LICENSE**.
+This project is under the **MIT** license. For more information, access the file **LICENSE**.
 
 <h4 align=center>Made with ❤️ by <a href="https://www.linkedin.com/in/debora-zandonai-4ab092195/">Debora Zandonai</a></h4>
